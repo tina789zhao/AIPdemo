@@ -1,3 +1,4 @@
 add new line:
 once upon a time
-add onece
+add onece\
+nigth class
